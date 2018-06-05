@@ -1,2 +1,5 @@
 # hello-world
-Write a short description
+
+Make and commit changes.
+Write a commit message that describes your changes.
+Click Commit changes button.
